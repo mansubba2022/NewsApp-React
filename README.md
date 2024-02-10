@@ -1,1 +1,1 @@
-News App using React and New Api
+News App using React and News Api
